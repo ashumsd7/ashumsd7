@@ -27,13 +27,14 @@
 <br />
 
 <img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
+
 <br />
 
 ### 100DaysOfCode:
 🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
-#### Day 01: [Change Background with random color code (digits only)] [day1]
-#### Day 02: [Change Background with random color code (HexCode)] [day2]
-#### Day 03: 
+ Day 01: [Change Background with random color code (digits only)] [day1]
+ Day 02: [Change Background with random color code (HexCode)] [day2]
+ Day 03: 
 
 
 
