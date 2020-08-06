@@ -24,18 +24,18 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubLink]
 
-
 <br />
+
+<img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
 <br />
 
 ### 100DaysOfCode:
 🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
-#### Day 01: 
+#### Day 01: [Change Background with random color code (digits only)] [day1]
+#### Day 02: [Change Background with random color code (HexCode)] [day2]
+#### Day 03: 
 
 
-
-
-<img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
 
 [website]: https://aat.netlify.app
 [twitter]: https://twitter.com/WebDevVue
@@ -43,3 +43,7 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [githubLink]: https://github.com/ashumsd7
+
+[day1]: https://github.com/ashumsd7
+[day2]: https://github.com/ashumsd7
+[day3]: https://github.com/ashumsd7
