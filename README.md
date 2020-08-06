@@ -1,10 +1,10 @@
-### Hey, This Is Ashutosh Anand Tiwari  -  [ASHU][website] 👋
+### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
 
 ## 23 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently learning JS + Vue JS.
 - 🛠️ Building small JS projects to # my skills.
 - 🎯 GOAL THIS YEAR : To know JS + Vue JS + DB + NODE JS
-- 💕 LOVE Runing, Walking and playing badminton
+- 💕 LOVE 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 ### 🔍 Find me :
 
