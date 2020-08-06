@@ -31,8 +31,8 @@
 
 <br />
 <br />
-
-### 100DaysOfCode:
+<br />
+### 100DaysOfCode:  <br />
 ##🛠️I am trying to build some small JS project to sharp my skill.🛠️ <br />
 Day 01: [Change Background with random color code (digits only)] [day1]<br />
 Day 02: [Change Background with random color code (HexCode)] [day2]<br />
