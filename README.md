@@ -28,6 +28,11 @@
 <br />
 <br />
 
+### 100DaysOfCode:
+🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
+## Day 01: 
+
+
 
 
 <img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
@@ -38,6 +43,3 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [githubLink]: https://github.com/ashumsd7
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
