@@ -30,7 +30,7 @@
 
 ### 100DaysOfCode:
 🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
-#### Day 01: 
+ [day1] [day2] [day3]
 
 
 
@@ -43,3 +43,9 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [githubLink]: https://github.com/ashumsd7
+
+[day1]: https://github.com/ashumsd7
+[day2]: https://github.com/ashumsd7
+[day3]: https://github.com/ashumsd7
+
+
