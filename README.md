@@ -1,12 +1,12 @@
 ### Hey, This Is Ashutosh Anand Tiwari  -  [ASHU][website] 👋
 
-## 23 | STUDENT | LEARNING WEB DEV | JS | VUE JS | INDIA
-- > I’m currently learning JS + Vue JS.
-- >> Building small JS projects to # my skills.
-- >>> GOAL THIS YEAR : To know JS + Vue JS + DB + NODE JS
-- >>>> LOVE Runing, Walking and playing badminton
-- >>>>> Write Poems in HINDI
-### Find me :
+## 23 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
+- 📚I’m currently learning JS + Vue JS.
+- 🛠️ Building small JS projects to # my skills.
+- 🎯 GOAL THIS YEAR : To know JS + Vue JS + DB + NODE JS
+- 💕 LOVE Runing, Walking and playing badminton
+- ✍️ Write Poems in HINDI
+### 🔍 Find me :
 
 [<img align="left" alt="ashumsd7.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ashu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
