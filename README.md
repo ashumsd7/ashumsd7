@@ -30,7 +30,7 @@
 
 ### 100DaysOfCode:
 🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
-## Day 01: 
+#### Day 01: 
 
 
 
