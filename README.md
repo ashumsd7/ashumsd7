@@ -3,8 +3,8 @@
 ## 23 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently learning JS + Vue JS.
 - 🛠️ Building small JS projects to # my skills.
-- 🎯 GOAL THIS YEAR : To know JS + Vue JS + DB + NODE JS
-- 💕 LOVE 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
+- 🎯 Goal This Year : To know JS + Vue JS + DB + NODE JS
+- 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 ### 🔍 Find me :
 
@@ -13,7 +13,7 @@
 <!-- [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <!-- [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
+<br /> 
 
 ### Languages and Tools:
 
