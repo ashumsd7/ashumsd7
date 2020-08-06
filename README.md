@@ -29,11 +29,10 @@
 <br />
 
 ### 100DaysOfCode:
-🛠️I am trying to build some small JS project to sharp my skill.🛠️ 
+🛠️I am trying to build some small JS project to sharp my skill.🛠️  <br />
+<hr />
  [day1] [day2] [day3]
-
-
-
+<hr />
 
 <img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
 
