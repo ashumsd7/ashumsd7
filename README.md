@@ -45,8 +45,8 @@
 [linkedin]: https://linkedin.com/in/
 [githubLink]: https://github.com/ashumsd7
 
-[day1]: https://github.com/ashumsd7
-[day2]: https://github.com/ashumsd7
-[day3]: https://github.com/ashumsd7
+[day1]: https://ashumsd7.github.io/01JS-change-random-backgroud-color/
+[day2]: https://ashumsd7.github.io/02JS--Change-background-with-hexcode/
+[day3]: https://ashumsd7.github.io/Day03B--Random-Quote-Generator/
 
 
