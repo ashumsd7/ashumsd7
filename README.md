@@ -6,6 +6,10 @@
 - 🎯 Goal This Year : To know JS + Vue JS + DB + NODE JS
 - 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
+
+## And Continue...
+
+![App Screenshot](https://i.ibb.co/MNqpFjF/ss.jpg)
 ### 🔍 Find me :
 
 [<img align="left" alt="ashumsd7.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
