@@ -1,6 +1,6 @@
 ### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
 
-## 23 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
+## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently learning JS + Vue JS.
 - 🛠️ Building small JS projects to # my skills.
 - 🎯 Goal This Year : To know JS + Vue JS + DB + NODE JS
@@ -36,7 +36,7 @@
 <img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
 
 [website]: https://aat.netlify.app
-[twitter]: https://twitter.com/WebDevVue
+[twitter]: https://twitter.com/YourVueJs
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
