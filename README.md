@@ -1,5 +1,5 @@
 ### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
-
+![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=0%26showProject=false)
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently learning JS + Vue JS.
 - 🛠️ Building small JS projects to # my skills.
