@@ -1,5 +1,5 @@
 ### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
-![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/undefined?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently learning JS + Vue JS.
 - 🛠️ Building small JS projects to # my skills.
@@ -39,15 +39,13 @@
 
 <img align="left" alt="Ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashumsd7&show_icons=true&hide_border=true" />
 
-[website]: https://aat.netlify.app
+[website]: https://aashu.online
 [twitter]: https://twitter.com/YourVueJs
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
 [githubLink]: https://github.com/ashumsd7
 
-[day1]: https://ashumsd7.github.io/01JS-change-random-backgroud-color/
-[day2]: https://ashumsd7.github.io/02JS--Change-background-with-hexcode/
-[day3]: https://ashumsd7.github.io/Day03B--Random-Quote-Generator/
+
 
 
