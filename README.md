@@ -1,7 +1,8 @@
 ### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
 
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
-- 📚I’m currently learning JS + Vue JS.
+- 📚I’m currently working with  JS + Vue JS +Bootstrap.
+- 📚I’m familiar  with Nuxt, firebase, tailwind, .net mvc firebase.
 - 🛠️ Building small JS projects to # my skills.
 - 🎯 Goal This Year : To know JS + Vue JS + DB + NODE JS
 - 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
