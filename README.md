@@ -10,7 +10,7 @@
 
 ## And Continue...
 
-![App Screenshot](https://i.ibb.co/SwR1PtC/wa.jpg)
+![App Screenshot](https://i.ibb.co/VDJ9gkk/dash.png)
 ### 🔍 Find me :
 
 [<img align="left" alt="ashumsd7.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
