@@ -2,7 +2,7 @@
 
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently working with  JS + Vue JS +Bootstrap + Vuetify+ NUXT + Quasar.
-- 📚I’m familiar  with Nuxt, firebase, tailwind, .net mvc .
+- 📚I’m familiar  with  firebase, tailwind, .net mvc .
 - 🛠️ Building small JS projects to # my skills.
 - 🎯 Goal This Year : FULL STACK
 - 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
