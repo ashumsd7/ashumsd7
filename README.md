@@ -10,7 +10,9 @@
 
 ## And Continue...
 
-![App Screenshot](https://i.ibb.co/JnFHRTt/wa.jpg)
+[![wakatime](https://wakatime.com/badge/user/ec48da03-77e4-4067-bf18-dd9473fedfe3.svg)](https://wakatime.com/@ec48da03-77e4-4067-bf18-dd9473fedfe3)
+
+![App Screenshot](https://wakatime.com/badge/user/ec48da03-77e4-4067-bf18-dd9473fedfe3.svg)
 ### 🔍 Find me :
 
 [<img align="left" alt="ashumsd7.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
