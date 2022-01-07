@@ -2,9 +2,6 @@
 
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
 - 📚I’m currently working with  JS + Vue JS +Bootstrap + Vuetify+ Hugo 
-- 📚I’m familiar  with  firebase, tailwind, .net mvc .
-- 🛠️ Building small JS projects to # my skills.
-- 🎯 Goal This Year : FULL STACK
 - 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 
