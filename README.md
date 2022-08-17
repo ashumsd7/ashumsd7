@@ -5,7 +5,7 @@
 - 💕 Lo ve 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 
-## Lets incement freindship list ++
+## Lets Increment freindship list ++
 
 [![wakatime](https://wakatime.com/badge/user/ec48da03-77e4-4067-bf18-dd9473fedfe3.svg)](https://wakatime.com/@ec48da03-77e4-4067-bf18-dd9473fedfe3)
 
