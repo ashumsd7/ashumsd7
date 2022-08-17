@@ -1,8 +1,8 @@
 ### Hey, This Is 👦 Ashutosh Anand Tiwari 👦  -  [ASHU][website] 👋
 
-## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | 
-- 📚I’m currently working with  JS + Vue JS +Bootstrap + Vuetify+ Hugo 
-- 💕 Love 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
+## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | React
+- 📚I’m currently working with  JS + Vue JS +Bootstrap + Vuetify+ Hugo + Nuxt + React +  Next
+- 💕 Lo ve 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 
 ## And Continue...
