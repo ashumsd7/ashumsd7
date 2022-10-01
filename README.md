@@ -2,7 +2,7 @@
 
 ## 24 | STUDENT | LEARNING WEB DEV | JS | VUE JS | React
 - 📚I’m currently working with  JS + Vue JS +Bootstrap + Vuetify+ Hugo + Nuxt + React +  Next
-- 💕 Lo ve 🏃‍♀️ Runing, 🚶‍♂️ Walking and playing 🏸badminton
+- 💕 Lo ve 🏃‍♀️ Runing, 🚶‍♂️ ~~Walking~~ and playing 🏸badminton
 - ✍️ Write Poems in HINDI
 
 ## Lets Increment freindship list ++
