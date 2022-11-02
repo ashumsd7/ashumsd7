@@ -2,7 +2,7 @@
 
 <!-- hello everyone 👋 i'm &#128512; chhavi ... -->
 
-<h1 align="center">Hi , I'm Chhavi Srivastav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ashutosh Anand Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
 
 </div>
@@ -10,11 +10,10 @@
      <hr/>
      <div style="display:flex">
     <p align="left" style="max-width:40%">
-From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused front end developer👨‍💻. I am passionate about building fully functional web, applications.
 
-I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript, ReactJS & Vue Js.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 </p>
 
@@ -68,7 +67,7 @@ Here are some ideas to get you started:-->
 <h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
 <!-- ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg) -->
 
-<a href="https://github.com/chhavi48-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chhavi48&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashumsd7-cmd/github-readme-activity-graph"><img alt="chhhavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashumsd7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     
 <!-- <p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
  
@@ -81,24 +80,24 @@ Here are some ideas to get you started:-->
 
 
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chhavi48" alt="chhavi" /> </h3>
-  <a href="https://github.com/chhavi48?tab=followers">
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=ashumsd7" alt="chhavi" /> </h3>
+  <a href="https://github.com/ashumsd7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chhavi48?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p><hr/>
 
  <h2 align="left">🤝Let's Connect</h2>
 
 
-<a href="https://twitter.com/@srivastavchhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.linkedin.com/in/chhavisrivastva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<p align='center'><a href="https://twitter.com/@SrivastavChhavi"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@SrivastavChhavi&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+<a href="https://twitter.com/@yourvuejs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashu" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/ashutoshanandtiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<p align='center'><a href="https://twitter.com/@yourvuejs"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=@SrivastavChhavi&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
 <h4>Just Scan and connect🤝</h4>
  <img src="https://user-images.githubusercontent.com/77965216/185343035-d24afd26-2ae2-4946-9866-52c18fae0667.png" height="150px" width="150px"/>
 
 </p>
 </hr>
-<a href="https://github.com/chhavi48" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi48&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ashumsd7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashumsd7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!--
 <p align='center'><a href="https://twitter.com/chhavi48"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=chhavi48&layout=wide" width="350"  alt="github-readme-twitter"></a></p></hr>-->
 <!--<a href="http://www.github.com/chhavi48"><img src="https://github-readme-stats.vercel.app/api?username=chhavi48&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chhavi 💁‍♂️🤷‍♂️ GitHub stats" /></a>
