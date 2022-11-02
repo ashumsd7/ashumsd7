@@ -24,18 +24,7 @@ I am skilled in HTML, CSS, Javascript, ReactJS & Vue Js.
 
 
 Here are some ideas to get you started:-->
-<hr/>
-🌱<p> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-✔️  I aspire to work as a programmer.
-
-✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
-
-
-✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.
-<hr/>
-<h2>languge and tools</h2>
-<h5>C ,HTML , CSS ,SCSS,PYTHON with Django, javascript , Linux(CLI), NPM,bootstrap,Wordpress,css animation,php,gitbash,React,Redux,material UI,TypeScript,NodeJs Express js, MongoDb,soft skill(bloger)</h5>
 <div>
 <img src="https://thumbs.dreamstime.com/b/vector-logo-letter-c-glitch-distortion-diagonal-modern-vector-logo-letter-c-c-letter-design-vector-126107818.jpg" height="50px" width="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="50px"/>
