@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS & Next JS<br> 🤝 I’m looking for you to learn and grow together<br>🌱 I’m currently learning in depth Front-end develepment<br>💬 Ask me about JavaScript(L) <br>⚡ Fun fact : loading...
+🔭 I’m currently working on React JS & Next JS<br> 🤝 I’m looking for you to learn and grow together<br>🌱 I’m currently learning in depth Front-end develepment<br>💬 Ask me about JavaScript(L) <br>
 
 
 ## 🌐 Socials:
