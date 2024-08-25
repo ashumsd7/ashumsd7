@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on React JS & Next JS<br> 🤝 I’m looking for you to learn and grow together<br>🌱 I’m currently learning in depth Front-end develepment<br>💬 Ask me about JavaScript(L) <br>
+# Welcome to My Repository
+
+Hello everyone! I'm **Ashutosh Anand Tiwari**, an experienced front-end developer currently exploring the world of Node.js backend development. This repository is my digital space where I share all aspects of my life—tech notes, blogs on technology, personal journeys, and much more.
+
+
+![Portfolio Overview](https://api.pikwy.com/web/66ca2d87292e681c71393466.jpg)
 
 
 ## 🌐 Socials:
