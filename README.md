@@ -1,9 +1,11 @@
 # Welcome to My Repository
 
+![Portfolio Overview](https://api.pikwy.com/web/66ca2d87292e681c71393466.jpg)
+
 Hello everyone! I'm **Ashutosh Anand Tiwari**, an experienced front-end developer currently exploring the world of Node.js backend development. This repository is my digital space where I share all aspects of my life—tech notes, blogs on technology, personal journeys, and much more.
 
 
-![Portfolio Overview](https://api.pikwy.com/web/66ca2d87292e681c71393466.jpg)
+
 
 
 ## 🌐 Socials:
