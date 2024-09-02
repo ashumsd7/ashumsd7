@@ -1,4 +1,4 @@
-# Welcome to My Digital Space! 🎉
+# Welcome to Your Digital Garden 🌱 🎉
 
  [![Portfolio Overview](https://i.ibb.co/rH25JxQ/image.jpg)](https://heyashu.in)
 
