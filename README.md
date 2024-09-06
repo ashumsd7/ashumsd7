@@ -1,13 +1,13 @@
 # Welcome to Your Digital Garden 🌱 🎉
 
- [![Portfolio Overview](https://i.ibb.co/rH25JxQ/image.jpg)](https://heyashu.in)
+ [![Portfolio Overview](https://i.ibb.co/xMyzzBZ/testest.png)](https://heyashu.in)
 
 
 Hello everyone! I'm **Ashutosh Anand Tiwari**, an experienced front-end developer currently exploring the world of Node.js backend development. This repository is my digital space where I share all aspects of my life—tech notes, blogs on technology, personal journeys, and much more.
 
 
 
-
+ [![Portfolio Overview](https://i.ibb.co/rH25JxQ/image.jpg)](https://heyashu.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashumsd7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshanandtiwari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ashumsd7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourvuejs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aat) 
