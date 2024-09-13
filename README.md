@@ -1,5 +1,4 @@
-# Welcome to Your Digital Garden 🌱 🎉
-
+# Welcome to Your Digital Garden 🌱 
  [![Portfolio Overview](https://i.ibb.co/xMyzzBZ/testest.png)](https://heyashu.in)
 
 
