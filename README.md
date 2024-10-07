@@ -2,7 +2,7 @@
  [![Portfolio Overview](https://i.ibb.co/xMyzzBZ/testest.png)](https://heyashu.in)
 
 
-Hello everyone! I'm **Ashutosh Anand Tiwari**, Front-end developer currently exploring the world of Node.js backend development. This repository is my digital space where I share all aspects of my life—tech notes, blogs on technology, personal journeys, and much more.
+Hello everyone! I'm **Ashutosh Anand Tiwari**, Front-end developer currently exploring the world of Node.js backend development. This repository is my digital space where I share all aspects of my life—tech notes, blogs on technology, personal journeys, and much more
 
 
 
